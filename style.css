@@ -1,0 +1,20 @@
+body{
+    direction: rtl;
+    background-color: #0b3e6f;
+}
+ul{
+    list-style: none;
+}
+ul li{
+
+    float: right;
+    padding: 5px;
+    color: #fff;
+    font-size: 15px;
+}
+ul li:hover{
+    background-color: #000;
+    border-radius: 30%;
+    font-size: 16px;
+    transition: z-index;
+}

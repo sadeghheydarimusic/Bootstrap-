@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="68fa1e2f-8ff9-42f6-855f-2c959dc133d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTTP Request" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -50,6 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,7 +68,9 @@
       <workItem from="1605631120759" duration="24000" />
       <workItem from="1605632841430" duration="275000" />
       <workItem from="1605716572960" duration="5000" />
-      <workItem from="1605718304993" duration="959000" />
+      <workItem from="1605718304993" duration="1097000" />
+      <workItem from="1605877664002" duration="17000" />
+      <workItem from="1606071538719" duration="1011000" />
     </task>
     <servers />
   </component>
